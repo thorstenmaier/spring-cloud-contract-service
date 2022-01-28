@@ -60,6 +60,9 @@
                 <extensions>true</extensions>
                 <configuration>
                     <testFramework>JUNIT5</testFramework>
+                    <baseClassForTests>
+                        com.trivadis.service.BaseClass
+                    </baseClassForTests>
                 </configuration>
             </plugin>
             <plugin>
