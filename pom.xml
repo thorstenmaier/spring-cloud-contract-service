@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.trivadis</groupId>
-    <artifactId>service</artifactId>
+    <artifactId>spring-cloud-contract-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service</name>
-    <description>service</description>
+    <name>spring-cloud-contract-service</name>
+    <description>spring-cloud-contract-service</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.0</spring-cloud.version>
