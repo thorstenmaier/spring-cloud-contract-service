@@ -63,6 +63,7 @@
                     <baseClassForTests>
                         com.trivadis.service.BaseClass
                     </baseClassForTests>
+                    <contractsMode>LOCAL</contractsMode>
                 </configuration>
             </plugin>
             <plugin>

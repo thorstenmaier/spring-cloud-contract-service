@@ -18,6 +18,6 @@ Contract.make {
             header(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
         }
 
-        body([name: "Thorsten"])
+        body([[name: "Thorsten"]])
     }
 }
